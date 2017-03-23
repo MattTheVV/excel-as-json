@@ -13,13 +13,8 @@
   "license": "MIT",
   "main": "lib/excel-as-json.js",
   "scripts": {
-    "clean": "tools/clean.sh",
-    "build": "tools/build.sh",
-    "test": "tools/test.sh",
-    "dist": "tools/dist.sh",
-    "codecov": "cat ./coverage/lcov.info | ./node_modules/.bin/codecov",
-    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
-    "prepublish": "tools/dist.sh"
+    "prepublish": "grunt build:dist",
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
@@ -28,6 +23,8 @@
   "keywords": [
     "Excel",
     "JSON",
+    "excel-as-json",
+    "excel-to-json",
     "convert"
   ],
   "bugs": {
@@ -36,18 +33,25 @@
   "homepage": "https://github.com/mrbatista/excel-as-json",
   "dependencies": {
     "async": "^2.1.4",
-    "excel": "0.1.7",
+    "excel": "^0.1.7",
     "lodash": "^4.17.4",
     "mathjs": "^3.9.0",
     "fs-extra": "^2.0.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
-    "codecov.io": "0.1.6",
-    "coffee-coverage": "1.0.1",
     "coffee-script": "1.10.0",
     "coveralls": "2.11.9",
-    "istanbul": "0.4.3",
-    "mocha": "2.5.3"
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-coffee": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-coveralls": "^1.0.1",
+    "grunt-mocha-istanbul": "^5.0.2",
+    "ibrik": "^2.0.0",
+    "istanbul": "^0.4.5",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "2.5.3",
+    "time-grunt": "^1.4.0"
   }
 }

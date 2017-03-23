@@ -1,6 +1,0 @@
-require './helpers'
-require './assignSpec'
-require './convertSpec'
-require './convertValueSpec'
-require './parseKeyNameSpec'
-require './processFileSpec'

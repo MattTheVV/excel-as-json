@@ -1,12 +1,11 @@
-[![tag:?](https://img.shields.io/github/tag/stevetarver/excel-as-json.svg)](https://github.com/stevetarver/excel-as-json/releases)
+[![tag:?](https://img.shields.io/github/tag/mrbatista/excel-as-json.svg)](https://github.com/mrbatista/excel-as-json/releases)
 [![license:mit](https://img.shields.io/badge/license-mit-green.svg)](#license)
-[![build:?](https://img.shields.io/travis/stevetarver/excel-as-json/master.svg)](https://travis-ci.org/stevetarver/excel-as-json)
-[![coverage:?](https://img.shields.io/coveralls/stevetarver/excel-as-json/master.svg?style=flat-square)](https://coveralls.io/r/stevetarver/excel-as-json)
-[![codecov.io](http://codecov.io/github/stevetarver/excel-as-json/coverage.svg?branch=master)](http://codecov.io/github/stevetarver/excel-as-json?branch=master)
+[![build:?](https://img.shields.io/travis/mrbatista/excel-as-json/master.svg)](https://travis-ci.org/mrbatista/excel-as-json)
+[![coverage:?](https://coveralls.io/repos/github/mrbatista/excel-as-json/badge.svg)](https://coveralls.io/github/mrbatista/excel-as-json)
 <br>
-[![npm:](https://img.shields.io/npm/v/excel-as-json.svg)](https://www.npmjs.com/package/excel-as-json)
-[![dependencies:?](https://img.shields.io/david/stevetarver/excel-as-json.svg)](https://david-dm.org/stevetarver/excel-as-json.svg)
-[![devDependency Status](https://david-dm.org/stevetarver/excel-as-json/dev-status.svg)](https://david-dm.org/stevetarver/excel-as-json#info=devDependencies)
+[![npm:](https://img.shields.io/npm/v/excel-as-json.svg)](https://www.npmjs.com/package/@mrbatista/excel-as-json)
+[![dependencies:?](https://img.shields.io/david/mrbatista/excel-as-json.svg)](https://david-dm.org/mrbatista/excel-as-json.svg)
+[![devDependency Status](https://david-dm.org/mrbatista/excel-as-json/dev-status.svg)](https://david-dm.org/mrbatista/excel-as-json#info=devDependencies)
 
 
 # Convert Excel Files to JSON
@@ -22,7 +21,7 @@ all methods are exported for other uses.
 
 ## Install
 
-```$ npm install excel-as-json --save-dev```
+```$ npm install mrbatista/excel-as-json --save-dev```
 
 ## Use
 
