@@ -1,4 +1,4 @@
-2017-03-25, Version 2.1.0
+2017-03-25, Version 2.2.0
 =========================
 
  * update wrong email address (Matteo Padovano)
