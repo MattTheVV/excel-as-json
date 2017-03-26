@@ -1,10 +1,10 @@
-[![tag:?](https://img.shields.io/github/tag/mrbatista/excel-as-json.svg)](https://github.com/mrbatista/excel-as-json/releases)
+[![tag](https://img.shields.io/github/tag/mrbatista/excel-as-json.svg)](https://github.com/mrbatista/excel-as-json/releases)
+[![build](https://img.shields.io/travis/mrbatista/excel-as-json/master.svg)](https://travis-ci.org/mrbatista/excel-as-json)
+[![Coverage Status](https://coveralls.io/repos/github/mrbatista/excel-as-json/badge.svg)](https://coveralls.io/github/mrbatista/excel-as-json)
 [![license:mit](https://img.shields.io/badge/license-mit-green.svg)](#license)
-[![build:?](https://img.shields.io/travis/mrbatista/excel-as-json/master.svg)](https://travis-ci.org/mrbatista/excel-as-json)
-[![coverage:?](https://coveralls.io/repos/github/mrbatista/excel-as-json/badge.svg)](https://coveralls.io/github/mrbatista/excel-as-json)
 <br>
-[![npm:](https://img.shields.io/npm/v/excel-as-json.svg)](https://www.npmjs.com/package/@mrbatista/excel-as-json)
-[![dependencies:?](https://img.shields.io/david/mrbatista/excel-as-json.svg)](https://david-dm.org/mrbatista/excel-as-json.svg)
+[![npm](https://img.shields.io/npm/v/@mrbatista/excel-as-json.svg)](https://www.npmjs.com/package/@mrbatista/excel-as-json)
+[![dependencies](https://img.shields.io/david/mrbatista/excel-as-json.svg)](https://david-dm.org/mrbatista/excel-as-json.svg)
 [![devDependency Status](https://david-dm.org/mrbatista/excel-as-json/dev-status.svg)](https://david-dm.org/mrbatista/excel-as-json#info=devDependencies)
 
 
