@@ -1,3 +1,9 @@
+2017-03-26, Version 2.2.1
+=========================
+
+ * update wrong links in README file (Matteo Padovano)
+
+
 2017-03-25, Version 2.2.0
 =========================
 
