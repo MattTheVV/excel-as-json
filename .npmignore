@@ -6,3 +6,4 @@ coverage
 src
 test
 Gruntfile.coffee
+.travis.yml
