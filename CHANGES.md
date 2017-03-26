@@ -1,3 +1,9 @@
+2017-03-26, Version 2.2.2
+=========================
+
+ * add .travis.yml to .npmignore (Matteo Padovano)
+
+
 2017-03-26, Version 2.2.1
 =========================
 
